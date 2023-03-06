@@ -7,6 +7,11 @@ https://drive.google.com/drive/folders/1otEVT1DroNKHzVivBL21z78b19TUzZZU?usp=sha
 
 
 
+Some of the base html css are uploaded here
+
+
+
+
 Instructions to run the project
 
 
