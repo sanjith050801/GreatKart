@@ -4,7 +4,7 @@ This project is done using django framework.
 
 
 
-Only some of the base html css are uploaded here. Source code of the complete project has been uploaded on the following link:
+Only some of the base html, css, js and screenshots of the website are uploaded here. Source code of the complete project has been uploaded on the following link:
 
 
 https://drive.google.com/drive/folders/1otEVT1DroNKHzVivBL21z78b19TUzZZU?usp=sharing
