@@ -1,4 +1,4 @@
-# GreatKart
+# GreatKart - Site to sell courses
 
 
 Source code can be found on the following link:
