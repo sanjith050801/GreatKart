@@ -1,13 +1,16 @@
 # GreatKart - Site to sell courses
 
+This project is done using django framework.
 
-Source code can be found on the following link:
+
+
+Only some of the base html css are uploaded here. Source code of the complete project has been uploaded on the following link:
+
 
 https://drive.google.com/drive/folders/1otEVT1DroNKHzVivBL21z78b19TUzZZU?usp=sharing
 
 
 
-Some of the base html css are uploaded here
 
 
 
@@ -21,12 +24,12 @@ Instructions to run the project
 2. Run the command "source env/Scripts/activate". 
 
 
-3. After that run "python manage.py runserver 9000" command.
+3. After that run "python manage.py runserver" command.
 
 Once command is executed you should get message displaying text "Watching for file changes with StatReloader".
 
 
-4. Then open any web browser and type "https://127.0.0.1:9000" in the address bar which will lead to the homepage of the website. 
+4. Then open any web browser and type "https://127.0.0.1" in the address bar which will lead to the homepage of the website. 
 
 
 5. For admin panel "https://127.0.0.1/securelogin" and login id / password can be set from the command prompt by running the command "winpty python manage.py createsuperuser" or "python manage.py createsuperuser".
